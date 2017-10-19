@@ -1,0 +1,190 @@
+
+.box{
+	width: 391px;
+	height: 460px;
+	margin: auto auto;
+	border: 1px solid #666;
+	margin-top:100px ;
+}
+.top img{
+	float: left;
+	margin-top: 8px;
+	margin-left: 8px;
+}
+.top{
+	overflow: hidden;
+	width: 390px;
+	height: 46px;
+	/*background-color: #f7f7f7;*/
+	background:#f7f7f7 url(../img/QQ截图20170717104034.png) center right no-repeat;
+}
+.top span{
+	height: 47px;
+	line-height: 47px;
+   font-family: "宋体";
+   font-weight: 700;
+   color: #666;
+  /* margin-top: 10px;*/
+}
+.duanxin{
+	float: right;
+	margin-top:20px ;
+	margin-right: 5px;
+	overflow: hidden;
+}
+ .content .duanxin a{
+	float: right;
+	margin-top: 3px;
+	color: #666;
+	
+}
+.duanxin a:hover{
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+.content{
+	overflow: hidden;
+}
+.duanxin a{
+	color: #2e7fdb;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: "宋体";
+	
+}
+#mytext{
+	background-image: url(../img/QQ截图20170715161036.png) ;
+	background-repeat: no-repeat;
+	height: 32px;
+	width: 300px;
+    padding-left: 38px;
+    margin-bottom:19px ;
+    margin-left: 27px;
+    border: 1px solid  #666;
+    outline:none;  
+}
+#mytext:focus{
+	border: 1px solid blue;
+}
+#mypword{
+	background-image: url(../img/QQ截图20170715161051.png) ;
+	background-position: -1px;
+	background-repeat: no-repeat;
+	height: 32px;
+	width: 300px;
+    padding-left: 38px;
+    margin-left: 27px;
+    border: 1px solid  #666;
+    outline: none;
+}
+#mypword:focus{
+	border: 1px solid blue;
+}
+	
+#checkbox{
+	margin-top: 2px;
+}
+ 
+.myinput .mychekbox{
+	float: left;
+	font-size: 14px;
+	font-size: "宋体";
+	line-height: 18px;
+	margin-top: 12px;
+
+}
+.myinput .a1 {
+	text-decoration: none;
+	float: right;
+	margin-top: 14px;
+	margin-right: 23px;
+	font-size: 14px;
+	color: #1b66c7;
+	
+}
+.myinput .a1:hover{
+	text-decoration: underline;
+}
+
+#mybutton{
+	background-color: #3f89ec;
+	height: 48px;
+	width: 354px;
+	margin-left: 18px;
+	margin-top: 22px;
+	font-size: 24px;
+	color: white;
+	font-family: inherit;
+	border-radius: 10px;
+	border: none;
+}
+#mybutton:hover{
+	background:#4490f7 ;
+
+}
+.myinput p a {
+	float: right;
+	margin-top: 16px;
+	text-decoration: none;
+	font-size: 14px;
+	margin-right: 18px;
+	
+}
+.myinput p{
+	overflow: hidden;
+}
+.myinput p a{
+	color: #1b66c7;
+}
+#emptybox{
+	height: 44px;
+}
+p{
+	margin-left: 10px;
+}
+.pic{
+	margin-top: 12px;
+	overflow: hidden;
+	margin-left: 8px;
+}
+     #qq{
+            background:url(../img/QQ截图20170715171808.png) 0 0 no-repeat !important;
+            padding: 0;
+            width: 50px;
+            height: 50px;
+            float: left;
+        }
+        
+         #qq a{
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+#weibo{
+	 background:url(../img/QQ截图20170715171814.png)  no-repeat !important;
+            padding: 0;
+            width: 50px;
+            height: 50px;
+            /*margin-right: 40px;*/
+           float:left ;
+          
+}
+#weibo a{
+	 display: block;
+            width: 100%;
+            height: 100%;
+}
+.pic .img1{
+	float: right;
+	margin-top: -2px;
+}	
+.pic a{
+		display: block;
+		width: 100%;
+		height: 100%;
+}  
+}
+.pic{
+	overflow: hidden;
+}

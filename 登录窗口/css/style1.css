@@ -1,0 +1,58 @@
+
+.box{
+	background: white;
+	width: 391px;
+	height: 460px;
+	margin: auto auto;
+	border: 1px solid #666;
+	margin-top:100px ;
+	overflow: hidden;
+}
+.top img{
+	float: left;
+	margin-top: 8px;
+	margin-left: 8px;
+}
+.top{
+	overflow: hidden;
+	width: 390px;
+	height: 46px;
+	/*background-color: #f7f7f7;*/
+	background:#f7f7f7 url(../img/QQ截图20170717104034.png) center right no-repeat;
+}
+.top span{
+	height: 47px;
+	line-height: 47px;
+   font-family: "宋体";
+   font-weight: 700;
+   color: #666;
+}
+.content .p1{
+	width: 211px;
+	margin: auto;
+	margin-top: 70px;
+}
+.content .p1 span{
+	color: blue;
+}
+.content .erweima {
+	width:154px;
+	margin: 30px auto;
+}
+.content .p2{
+	text-decoration: none;
+	color: #666;
+	margin-top: 30px;
+	margin-left: 88px;
+	font-size: 14px;
+}
+.youxiajiao a{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+.youxiajiao {
+	float: right;
+	margin-top: 48px;
+	
+}
